@@ -1,0 +1,751 @@
+year,resource,variable,units,magnitude,source,data_value,flag
+2007,Biogas,Closing stock,Dollars,Thousands,Environmental Accounts,64848,R
+2007,Biogas,Generation,Gigawatt hours,Actual,MBIE,224,F
+2007,Biogas,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2007,Biogas,Opening stock,Dollars,Thousands,Environmental Accounts,,F
+2007,Biogas,Other changes,Dollars,Thousands,Environmental Accounts,,F
+2007,Biogas,Resource rent,Dollars,Thousands,Environmental Accounts,5188,R
+2007,Coal,Generation,Gigawatt hours,Actual,MBIE,4786,F
+2007,Gas,Generation,Gigawatt hours,Actual,MBIE,8552,R
+2007,Geothermal,Closing stock,Dollars,Thousands,Environmental Accounts,929297,R
+2007,Geothermal,Generation,Gigawatt hours,Actual,MBIE,3210,F
+2007,Geothermal,Gigawatt hours,Number,Proportion,MBIE,0.08,F
+2007,Geothermal,Opening stock,Dollars,Thousands,Environmental Accounts,,F
+2007,Geothermal,Other changes,Dollars,Thousands,Environmental Accounts,,F
+2007,Geothermal,Resource rent,Dollars,Thousands,Environmental Accounts,74344,R
+2007,Hydro,Closing stock,Dollars,Thousands,Environmental Accounts,7019488,R
+2007,Hydro,Generation,Gigawatt hours,Actual,MBIE,24249,F
+2007,Hydro,Gigawatt hours,Number,Proportion,MBIE,0.57,R
+2007,Hydro,Opening stock,Dollars,Thousands,Environmental Accounts,,F
+2007,Hydro,Other changes,Dollars,Thousands,Environmental Accounts,,F
+2007,Hydro,Resource rent,Dollars,Thousands,Environmental Accounts,561559,R
+2007,Oil,Generation,Gigawatt hours,Actual,MBIE,3,F
+2007,Renewable,Closing stock,Dollars,Thousands,Environmental Accounts,8326498,R
+2007,Renewable,Generation,Gigawatt hours,Actual,MBIE,28765,R
+2007,Renewable,Gigawatt hours,Number,Proportion,MBIE,0.68,F
+2007,Renewable,Opening stock,Dollars,Thousands,Environmental Accounts,,F
+2007,Renewable,Other changes,Dollars,Thousands,Environmental Accounts,,F
+2007,Renewable,Resource rent,Dollars,Thousands,Environmental Accounts,666120,R
+2007,Renewable,Resource rent,Number,Proportion,Environmental Accounts,0.68,F
+2007,Solar,Closing stock,Dollars,Thousands,Environmental Accounts,244,R
+2007,Solar,Generation,Gigawatt hours,Actual,MBIE,1,F
+2007,Solar,Gigawatt hours,Number,Proportion,MBIE,0,F
+2007,Solar,Opening stock,Dollars,Thousands,Environmental Accounts,,F
+2007,Solar,Other changes,Dollars,Thousands,Environmental Accounts,,F
+2007,Solar,Resource rent,Dollars,Thousands,Environmental Accounts,20,F
+2007,Total generation,Generation,Gigawatt hours,Actual,MBIE,42176,R
+2007,Total generation,Prices,Number,Average,Electricity Authority,60,F
+2007,Total generation,Resource rent,Dollars,Thousands,Environmental Accounts,976700,F
+2007,Waste heat,Generation,Gigawatt hours,Actual,MBIE,71,F
+2007,Wind,Closing stock,Dollars,Thousands,Environmental Accounts,174783,R
+2007,Wind,Generation,Gigawatt hours,Actual,MBIE,604,F
+2007,Wind,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2007,Wind,Opening stock,Dollars,Thousands,Environmental Accounts,,F
+2007,Wind,Other changes,Dollars,Thousands,Environmental Accounts,,F
+2007,Wind,Resource rent,Dollars,Thousands,Environmental Accounts,13983,R
+2007,Wood,Closing stock,Dollars,Thousands,Environmental Accounts,137838,R
+2007,Wood,Generation,Gigawatt hours,Actual,MBIE,476,R
+2007,Wood,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2007,Wood,Opening stock,Dollars,Thousands,Environmental Accounts,,F
+2007,Wood,Other changes,Dollars,Thousands,Environmental Accounts,,F
+2007,Wood,Resource rent,Dollars,Thousands,Environmental Accounts,11027,R
+2008,Biogas,Closing stock,Dollars,Thousands,Environmental Accounts,62787,R
+2008,Biogas,Generation,Gigawatt hours,Actual,MBIE,205,F
+2008,Biogas,Gigawatt hours,Number,Proportion,MBIE,0,F
+2008,Biogas,Opening stock,Dollars,Thousands,Environmental Accounts,64848,R
+2008,Biogas,Other changes,Dollars,Thousands,Environmental Accounts,-2062,R
+2008,Biogas,Resource rent,Dollars,Thousands,Environmental Accounts,5023,R
+2008,Coal,Generation,Gigawatt hours,Actual,MBIE,3245,F
+2008,Gas,Generation,Gigawatt hours,Actual,MBIE,11484,R
+2008,Geothermal,Closing stock,Dollars,Thousands,Environmental Accounts,1046042,R
+2008,Geothermal,Generation,Gigawatt hours,Actual,MBIE,3417,F
+2008,Geothermal,Gigawatt hours,Number,Proportion,MBIE,0.08,F
+2008,Geothermal,Opening stock,Dollars,Thousands,Environmental Accounts,929297,R
+2008,Geothermal,Other changes,Dollars,Thousands,Environmental Accounts,116745,R
+2008,Geothermal,Resource rent,Dollars,Thousands,Environmental Accounts,83683,R
+2008,Hydro,Closing stock,Dollars,Thousands,Environmental Accounts,6923293,R
+2008,Hydro,Generation,Gigawatt hours,Actual,MBIE,22616,F
+2008,Hydro,Gigawatt hours,Number,Proportion,MBIE,0.53,F
+2008,Hydro,Opening stock,Dollars,Thousands,Environmental Accounts,7019488,R
+2008,Hydro,Other changes,Dollars,Thousands,Environmental Accounts,-96194,R
+2008,Hydro,Resource rent,Dollars,Thousands,Environmental Accounts,553863,R
+2008,Oil,Generation,Gigawatt hours,Actual,MBIE,27,F
+2008,Renewable,Closing stock,Dollars,Thousands,Environmental Accounts,8496923,R
+2008,Renewable,Generation,Gigawatt hours,Actual,MBIE,27756,R
+2008,Renewable,Gigawatt hours,Number,Proportion,MBIE,0.65,F
+2008,Renewable,Opening stock,Dollars,Thousands,Environmental Accounts,8326498,R
+2008,Renewable,Other changes,Dollars,Thousands,Environmental Accounts,170424,R
+2008,Renewable,Resource rent,Dollars,Thousands,Environmental Accounts,679754,R
+2008,Renewable,Resource rent,Number,Proportion,Environmental Accounts,0.65,F
+2008,Solar,Closing stock,Dollars,Thousands,Environmental Accounts,1036,R
+2008,Solar,Generation,Gigawatt hours,Actual,MBIE,3,F
+2008,Solar,Gigawatt hours,Number,Proportion,MBIE,0,F
+2008,Solar,Opening stock,Dollars,Thousands,Environmental Accounts,244,R
+2008,Solar,Other changes,Dollars,Thousands,Environmental Accounts,792,R
+2008,Solar,Resource rent,Dollars,Thousands,Environmental Accounts,83,F
+2008,Total generation,Generation,Gigawatt hours,Actual,MBIE,42559,R
+2008,Total generation,Prices,Number,Average,Electricity Authority,70,F
+2008,Total generation,Resource rent,Dollars,Thousands,Environmental Accounts,1042266,F
+2008,Waste heat,Generation,Gigawatt hours,Actual,MBIE,47,F
+2008,Wind,Closing stock,Dollars,Thousands,Environmental Accounts,316019,R
+2008,Wind,Generation,Gigawatt hours,Actual,MBIE,1032,F
+2008,Wind,Gigawatt hours,Number,Proportion,MBIE,0.02,F
+2008,Wind,Opening stock,Dollars,Thousands,Environmental Accounts,174783,R
+2008,Wind,Other changes,Dollars,Thousands,Environmental Accounts,141235,R
+2008,Wind,Resource rent,Dollars,Thousands,Environmental Accounts,25281,R
+2008,Wood,Closing stock,Dollars,Thousands,Environmental Accounts,147746,R
+2008,Wood,Generation,Gigawatt hours,Actual,MBIE,483,R
+2008,Wood,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2008,Wood,Opening stock,Dollars,Thousands,Environmental Accounts,137838,R
+2008,Wood,Other changes,Dollars,Thousands,Environmental Accounts,9907,R
+2008,Wood,Resource rent,Dollars,Thousands,Environmental Accounts,11820,R
+2009,Biogas,Closing stock,Dollars,Thousands,Environmental Accounts,64060,R
+2009,Biogas,Generation,Gigawatt hours,Actual,MBIE,205,F
+2009,Biogas,Gigawatt hours,Number,Proportion,MBIE,0,F
+2009,Biogas,Opening stock,Dollars,Thousands,Environmental Accounts,62787,R
+2009,Biogas,Other changes,Dollars,Thousands,Environmental Accounts,1273,R
+2009,Biogas,Resource rent,Dollars,Thousands,Environmental Accounts,5125,R
+2009,Coal,Generation,Gigawatt hours,Actual,MBIE,4088,F
+2009,Gas,Generation,Gigawatt hours,Actual,MBIE,9409,R
+2009,Geothermal,Closing stock,Dollars,Thousands,Environmental Accounts,1308914,R
+2009,Geothermal,Generation,Gigawatt hours,Actual,MBIE,4197,F
+2009,Geothermal,Gigawatt hours,Number,Proportion,MBIE,0.1,F
+2009,Geothermal,Opening stock,Dollars,Thousands,Environmental Accounts,1046042,R
+2009,Geothermal,Other changes,Dollars,Thousands,Environmental Accounts,262872,R
+2009,Geothermal,Resource rent,Dollars,Thousands,Environmental Accounts,104713,R
+2009,Hydro,Closing stock,Dollars,Thousands,Environmental Accounts,6967435,R
+2009,Hydro,Generation,Gigawatt hours,Actual,MBIE,22340,F
+2009,Hydro,Gigawatt hours,Number,Proportion,MBIE,0.53,F
+2009,Hydro,Opening stock,Dollars,Thousands,Environmental Accounts,6923293,R
+2009,Hydro,Other changes,Dollars,Thousands,Environmental Accounts,44141,R
+2009,Hydro,Resource rent,Dollars,Thousands,Environmental Accounts,557395,R
+2009,Oil,Generation,Gigawatt hours,Actual,MBIE,98,F
+2009,Renewable,Closing stock,Dollars,Thousands,Environmental Accounts,8828660,R
+2009,Renewable,Generation,Gigawatt hours,Actual,MBIE,28308,R
+2009,Renewable,Gigawatt hours,Number,Proportion,MBIE,0.67,F
+2009,Renewable,Opening stock,Dollars,Thousands,Environmental Accounts,8496923,R
+2009,Renewable,Other changes,Dollars,Thousands,Environmental Accounts,331737,R
+2009,Renewable,Resource rent,Dollars,Thousands,Environmental Accounts,706293,R
+2009,Renewable,Resource rent,Number,Proportion,Environmental Accounts,0.67,F
+2009,Solar,Closing stock,Dollars,Thousands,Environmental Accounts,1077,R
+2009,Solar,Generation,Gigawatt hours,Actual,MBIE,3,F
+2009,Solar,Gigawatt hours,Number,Proportion,MBIE,0,F
+2009,Solar,Opening stock,Dollars,Thousands,Environmental Accounts,1036,R
+2009,Solar,Other changes,Dollars,Thousands,Environmental Accounts,41,R
+2009,Solar,Resource rent,Dollars,Thousands,Environmental Accounts,86,F
+2009,Total generation,Generation,Gigawatt hours,Actual,MBIE,41962,R
+2009,Total generation,Prices,Number,Average,Electricity Authority,105,F
+2009,Total generation,Resource rent,Dollars,Thousands,Environmental Accounts,1046967,F
+2009,Waste heat,Generation,Gigawatt hours,Actual,MBIE,59,F
+2009,Wind,Closing stock,Dollars,Thousands,Environmental Accounts,339769,R
+2009,Wind,Generation,Gigawatt hours,Actual,MBIE,1089,F
+2009,Wind,Gigawatt hours,Number,Proportion,MBIE,0.03,F
+2009,Wind,Opening stock,Dollars,Thousands,Environmental Accounts,316019,R
+2009,Wind,Other changes,Dollars,Thousands,Environmental Accounts,23750,R
+2009,Wind,Resource rent,Dollars,Thousands,Environmental Accounts,27182,R
+2009,Wood,Closing stock,Dollars,Thousands,Environmental Accounts,147405,R
+2009,Wood,Generation,Gigawatt hours,Actual,MBIE,473,R
+2009,Wood,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2009,Wood,Opening stock,Dollars,Thousands,Environmental Accounts,147746,R
+2009,Wood,Other changes,Dollars,Thousands,Environmental Accounts,-341,R
+2009,Wood,Resource rent,Dollars,Thousands,Environmental Accounts,11792,R
+2010,Biogas,Closing stock,Dollars,Thousands,Environmental Accounts,68148,R
+2010,Biogas,Generation,Gigawatt hours,Actual,MBIE,221,F
+2010,Biogas,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2010,Biogas,Opening stock,Dollars,Thousands,Environmental Accounts,64060,R
+2010,Biogas,Other changes,Dollars,Thousands,Environmental Accounts,4089,R
+2010,Biogas,Resource rent,Dollars,Thousands,Environmental Accounts,5452,R
+2010,Coal,Generation,Gigawatt hours,Actual,MBIE,3109,F
+2010,Gas,Generation,Gigawatt hours,Actual,MBIE,8387,R
+2010,Geothermal,Closing stock,Dollars,Thousands,Environmental Accounts,1443074,R
+2010,Geothermal,Generation,Gigawatt hours,Actual,MBIE,4671,F
+2010,Geothermal,Gigawatt hours,Number,Proportion,MBIE,0.11,F
+2010,Geothermal,Opening stock,Dollars,Thousands,Environmental Accounts,1308914,R
+2010,Geothermal,Other changes,Dollars,Thousands,Environmental Accounts,134160,R
+2010,Geothermal,Resource rent,Dollars,Thousands,Environmental Accounts,115446,R
+2010,Hydro,Closing stock,Dollars,Thousands,Environmental Accounts,7474182,R
+2010,Hydro,Generation,Gigawatt hours,Actual,MBIE,24194,F
+2010,Hydro,Gigawatt hours,Number,Proportion,MBIE,0.57,F
+2010,Hydro,Opening stock,Dollars,Thousands,Environmental Accounts,6967435,R
+2010,Hydro,Other changes,Dollars,Thousands,Environmental Accounts,506747,R
+2010,Hydro,Resource rent,Dollars,Thousands,Environmental Accounts,597935,R
+2010,Oil,Generation,Gigawatt hours,Actual,MBIE,9,F
+2010,Renewable,Closing stock,Dollars,Thousands,Environmental Accounts,9633149,R
+2010,Renewable,Generation,Gigawatt hours,Actual,MBIE,31182,R
+2010,Renewable,Gigawatt hours,Number,Proportion,MBIE,0.73,F
+2010,Renewable,Opening stock,Dollars,Thousands,Environmental Accounts,8828660,R
+2010,Renewable,Other changes,Dollars,Thousands,Environmental Accounts,804489,R
+2010,Renewable,Resource rent,Dollars,Thousands,Environmental Accounts,770652,R
+2010,Renewable,Resource rent,Number,Proportion,Environmental Accounts,0.73,F
+2010,Solar,Closing stock,Dollars,Thousands,Environmental Accounts,1116,R
+2010,Solar,Generation,Gigawatt hours,Actual,MBIE,4,F
+2010,Solar,Gigawatt hours,Number,Proportion,MBIE,0,F
+2010,Solar,Opening stock,Dollars,Thousands,Environmental Accounts,1077,R
+2010,Solar,Other changes,Dollars,Thousands,Environmental Accounts,39,R
+2010,Solar,Resource rent,Dollars,Thousands,Environmental Accounts,89,F
+2010,Total generation,Generation,Gigawatt hours,Actual,MBIE,42739,R
+2010,Total generation,Prices,Number,Average,Electricity Authority,53,R
+2010,Total generation,Resource rent,Dollars,Thousands,Environmental Accounts,1056272,F
+2010,Waste heat,Generation,Gigawatt hours,Actual,MBIE,51,F
+2010,Wind,Closing stock,Dollars,Thousands,Environmental Accounts,486810,R
+2010,Wind,Generation,Gigawatt hours,Actual,MBIE,1576,F
+2010,Wind,Gigawatt hours,Number,Proportion,MBIE,0.04,F
+2010,Wind,Opening stock,Dollars,Thousands,Environmental Accounts,339769,R
+2010,Wind,Other changes,Dollars,Thousands,Environmental Accounts,147041,R
+2010,Wind,Resource rent,Dollars,Thousands,Environmental Accounts,38945,R
+2010,Wood,Closing stock,Dollars,Thousands,Environmental Accounts,159819,R
+2010,Wood,Generation,Gigawatt hours,Actual,MBIE,517,R
+2010,Wood,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2010,Wood,Opening stock,Dollars,Thousands,Environmental Accounts,147405,R
+2010,Wood,Other changes,Dollars,Thousands,Environmental Accounts,12414,R
+2010,Wood,Resource rent,Dollars,Thousands,Environmental Accounts,12786,R
+2011,Biogas,Closing stock,Dollars,Thousands,Environmental Accounts,61707,R
+2011,Biogas,Generation,Gigawatt hours,Actual,MBIE,215,F
+2011,Biogas,Gigawatt hours,Number,Proportion,MBIE,0,F
+2011,Biogas,Opening stock,Dollars,Thousands,Environmental Accounts,68148,R
+2011,Biogas,Other changes,Dollars,Thousands,Environmental Accounts,-6441,R
+2011,Biogas,Resource rent,Dollars,Thousands,Environmental Accounts,4937,R
+2011,Coal,Generation,Gigawatt hours,Actual,MBIE,1635,F
+2011,Gas,Generation,Gigawatt hours,Actual,MBIE,8800,R
+2011,Geothermal,Closing stock,Dollars,Thousands,Environmental Accounts,1665290,R
+2011,Geothermal,Generation,Gigawatt hours,Actual,MBIE,5808,F
+2011,Geothermal,Gigawatt hours,Number,Proportion,MBIE,0.13,F
+2011,Geothermal,Opening stock,Dollars,Thousands,Environmental Accounts,1443074,R
+2011,Geothermal,Other changes,Dollars,Thousands,Environmental Accounts,222216,R
+2011,Geothermal,Resource rent,Dollars,Thousands,Environmental Accounts,133223,R
+2011,Hydro,Closing stock,Dollars,Thousands,Environmental Accounts,7148144,R
+2011,Hydro,Generation,Gigawatt hours,Actual,MBIE,24931,F
+2011,Hydro,Gigawatt hours,Number,Proportion,MBIE,0.57,F
+2011,Hydro,Opening stock,Dollars,Thousands,Environmental Accounts,7474182,R
+2011,Hydro,Other changes,Dollars,Thousands,Environmental Accounts,-326038,R
+2011,Hydro,Resource rent,Dollars,Thousands,Environmental Accounts,571852,R
+2011,Oil,Generation,Gigawatt hours,Actual,MBIE,1,F
+2011,Renewable,Closing stock,Dollars,Thousands,Environmental Accounts,9485687,R
+2011,Renewable,Generation,Gigawatt hours,Actual,MBIE,33084,R
+2011,Renewable,Gigawatt hours,Number,Proportion,MBIE,0.76,F
+2011,Renewable,Opening stock,Dollars,Thousands,Environmental Accounts,9633149,R
+2011,Renewable,Other changes,Dollars,Thousands,Environmental Accounts,-147462,R
+2011,Renewable,Resource rent,Dollars,Thousands,Environmental Accounts,758855,R
+2011,Renewable,Resource rent,Number,Proportion,Environmental Accounts,0.76,F
+2011,Solar,Closing stock,Dollars,Thousands,Environmental Accounts,1108,R
+2011,Solar,Generation,Gigawatt hours,Actual,MBIE,4,F
+2011,Solar,Gigawatt hours,Number,Proportion,MBIE,0,F
+2011,Solar,Opening stock,Dollars,Thousands,Environmental Accounts,1116,R
+2011,Solar,Other changes,Dollars,Thousands,Environmental Accounts,-8,R
+2011,Solar,Resource rent,Dollars,Thousands,Environmental Accounts,89,F
+2011,Total generation,Generation,Gigawatt hours,Actual,MBIE,43579,R
+2011,Total generation,Prices,Number,Average,Electricity Authority,52,F
+2011,Total generation,Resource rent,Dollars,Thousands,Environmental Accounts,999580,F
+2011,Waste heat,Generation,Gigawatt hours,Actual,MBIE,59,F
+2011,Wind,Closing stock,Dollars,Thousands,Environmental Accounts,469705,R
+2011,Wind,Generation,Gigawatt hours,Actual,MBIE,1638,R
+2011,Wind,Gigawatt hours,Number,Proportion,MBIE,0.04,F
+2011,Wind,Opening stock,Dollars,Thousands,Environmental Accounts,486810,R
+2011,Wind,Other changes,Dollars,Thousands,Environmental Accounts,-17106,R
+2011,Wind,Resource rent,Dollars,Thousands,Environmental Accounts,37576,R
+2011,Wood,Closing stock,Dollars,Thousands,Environmental Accounts,139734,R
+2011,Wood,Generation,Gigawatt hours,Actual,MBIE,487,R
+2011,Wood,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2011,Wood,Opening stock,Dollars,Thousands,Environmental Accounts,159819,R
+2011,Wood,Other changes,Dollars,Thousands,Environmental Accounts,-20085,R
+2011,Wood,Resource rent,Dollars,Thousands,Environmental Accounts,11179,R
+2012,Biogas,Closing stock,Dollars,Thousands,Environmental Accounts,68289,R
+2012,Biogas,Generation,Gigawatt hours,Actual,MBIE,219,F
+2012,Biogas,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2012,Biogas,Opening stock,Dollars,Thousands,Environmental Accounts,61707,R
+2012,Biogas,Other changes,Dollars,Thousands,Environmental Accounts,6581,R
+2012,Biogas,Resource rent,Dollars,Thousands,Environmental Accounts,5463,R
+2012,Coal,Generation,Gigawatt hours,Actual,MBIE,2327,F
+2012,Gas,Generation,Gigawatt hours,Actual,MBIE,8265,R
+2012,Geothermal,Closing stock,Dollars,Thousands,Environmental Accounts,1857303,R
+2012,Geothermal,Generation,Gigawatt hours,Actual,MBIE,5965,F
+2012,Geothermal,Gigawatt hours,Number,Proportion,MBIE,0.14,F
+2012,Geothermal,Opening stock,Dollars,Thousands,Environmental Accounts,1665290,R
+2012,Geothermal,Other changes,Dollars,Thousands,Environmental Accounts,192012,R
+2012,Geothermal,Resource rent,Dollars,Thousands,Environmental Accounts,148584,R
+2012,Hydro,Closing stock,Dollars,Thousands,Environmental Accounts,7446404,R
+2012,Hydro,Generation,Gigawatt hours,Actual,MBIE,23913,F
+2012,Hydro,Gigawatt hours,Number,Proportion,MBIE,0.55,F
+2012,Hydro,Opening stock,Dollars,Thousands,Environmental Accounts,7148144,R
+2012,Hydro,Other changes,Dollars,Thousands,Environmental Accounts,298260,R
+2012,Hydro,Resource rent,Dollars,Thousands,Environmental Accounts,595712,R
+2012,Oil,Generation,Gigawatt hours,Actual,MBIE,2,F
+2012,Renewable,Closing stock,Dollars,Thousands,Environmental Accounts,10152377,R
+2012,Renewable,Generation,Gigawatt hours,Actual,MBIE,32603,R
+2012,Renewable,Gigawatt hours,Number,Proportion,MBIE,0.75,F
+2012,Renewable,Opening stock,Dollars,Thousands,Environmental Accounts,9485687,R
+2012,Renewable,Other changes,Dollars,Thousands,Environmental Accounts,666690,R
+2012,Renewable,Resource rent,Dollars,Thousands,Environmental Accounts,812190,R
+2012,Renewable,Resource rent,Number,Proportion,Environmental Accounts,0.75,F
+2012,Solar,Closing stock,Dollars,Thousands,Environmental Accounts,1326,R
+2012,Solar,Generation,Gigawatt hours,Actual,MBIE,4,F
+2012,Solar,Gigawatt hours,Number,Proportion,MBIE,0,F
+2012,Solar,Opening stock,Dollars,Thousands,Environmental Accounts,1108,R
+2012,Solar,Other changes,Dollars,Thousands,Environmental Accounts,218,R
+2012,Solar,Resource rent,Dollars,Thousands,Environmental Accounts,106,F
+2012,Total generation,Generation,Gigawatt hours,Actual,MBIE,43240,R
+2012,Total generation,Prices,Number,Average,Electricity Authority,75,F
+2012,Total generation,Resource rent,Dollars,Thousands,Environmental Accounts,1077158,F
+2012,Waste heat,Generation,Gigawatt hours,Actual,MBIE,42,F
+2012,Wind,Closing stock,Dollars,Thousands,Environmental Accounts,623413,R
+2012,Wind,Generation,Gigawatt hours,Actual,MBIE,2002,R
+2012,Wind,Gigawatt hours,Number,Proportion,MBIE,0.05,F
+2012,Wind,Opening stock,Dollars,Thousands,Environmental Accounts,469705,R
+2012,Wind,Other changes,Dollars,Thousands,Environmental Accounts,153708,R
+2012,Wind,Resource rent,Dollars,Thousands,Environmental Accounts,49873,R
+2012,Wood,Closing stock,Dollars,Thousands,Environmental Accounts,155643,R
+2012,Wood,Generation,Gigawatt hours,Actual,MBIE,500,R
+2012,Wood,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2012,Wood,Opening stock,Dollars,Thousands,Environmental Accounts,139734,R
+2012,Wood,Other changes,Dollars,Thousands,Environmental Accounts,15910,R
+2012,Wood,Resource rent,Dollars,Thousands,Environmental Accounts,12451,R
+2013,Biogas,Closing stock,Dollars,Thousands,Environmental Accounts,66460,R
+2013,Biogas,Generation,Gigawatt hours,Actual,MBIE,208,F
+2013,Biogas,Gigawatt hours,Number,Proportion,MBIE,0,F
+2013,Biogas,Opening stock,Dollars,Thousands,Environmental Accounts,68289,R
+2013,Biogas,Other changes,Dollars,Thousands,Environmental Accounts,-1828,R
+2013,Biogas,Resource rent,Dollars,Thousands,Environmental Accounts,5317,R
+2013,Coal,Generation,Gigawatt hours,Actual,MBIE,3248,F
+2013,Gas,Generation,Gigawatt hours,Actual,MBIE,8268,R
+2013,Geothermal,Closing stock,Dollars,Thousands,Environmental Accounts,1948646,R
+2013,Geothermal,Generation,Gigawatt hours,Actual,MBIE,6095,R
+2013,Geothermal,Gigawatt hours,Number,Proportion,MBIE,0.14,F
+2013,Geothermal,Opening stock,Dollars,Thousands,Environmental Accounts,1857303,R
+2013,Geothermal,Other changes,Dollars,Thousands,Environmental Accounts,91344,R
+2013,Geothermal,Resource rent,Dollars,Thousands,Environmental Accounts,155892,R
+2013,Hydro,Closing stock,Dollars,Thousands,Environmental Accounts,7260275,R
+2013,Hydro,Generation,Gigawatt hours,Actual,MBIE,22710,F
+2013,Hydro,Gigawatt hours,Number,Proportion,MBIE,0.53,F
+2013,Hydro,Opening stock,Dollars,Thousands,Environmental Accounts,7446404,R
+2013,Hydro,Other changes,Dollars,Thousands,Environmental Accounts,-186129,R
+2013,Hydro,Resource rent,Dollars,Thousands,Environmental Accounts,580822,R
+2013,Oil,Generation,Gigawatt hours,Actual,MBIE,5,F
+2013,Renewable,Closing stock,Dollars,Thousands,Environmental Accounts,10088057,R
+2013,Renewable,Generation,Gigawatt hours,Actual,MBIE,31556,R
+2013,Renewable,Gigawatt hours,Number,Proportion,MBIE,0.73,F
+2013,Renewable,Opening stock,Dollars,Thousands,Environmental Accounts,10152377,R
+2013,Renewable,Other changes,Dollars,Thousands,Environmental Accounts,-64320,R
+2013,Renewable,Resource rent,Dollars,Thousands,Environmental Accounts,807045,R
+2013,Renewable,Resource rent,Number,Proportion,Environmental Accounts,0.73,F
+2013,Solar,Closing stock,Dollars,Thousands,Environmental Accounts,1596,R
+2013,Solar,Generation,Gigawatt hours,Actual,MBIE,5,F
+2013,Solar,Gigawatt hours,Number,Proportion,MBIE,0,F
+2013,Solar,Opening stock,Dollars,Thousands,Environmental Accounts,1326,R
+2013,Solar,Other changes,Dollars,Thousands,Environmental Accounts,270,R
+2013,Solar,Resource rent,Dollars,Thousands,Environmental Accounts,128,F
+2013,Total generation,Generation,Gigawatt hours,Actual,MBIE,43110,R
+2013,Total generation,Prices,Number,Average,Electricity Authority,81,F
+2013,Total generation,Resource rent,Dollars,Thousands,Environmental Accounts,1102541,F
+2013,Waste heat,Generation,Gigawatt hours,Actual,MBIE,33,F
+2013,Wind,Closing stock,Dollars,Thousands,Environmental Accounts,638267,R
+2013,Wind,Generation,Gigawatt hours,Actual,MBIE,1997,R
+2013,Wind,Gigawatt hours,Number,Proportion,MBIE,0.05,F
+2013,Wind,Opening stock,Dollars,Thousands,Environmental Accounts,623413,R
+2013,Wind,Other changes,Dollars,Thousands,Environmental Accounts,14854,R
+2013,Wind,Resource rent,Dollars,Thousands,Environmental Accounts,51061,R
+2013,Wood,Closing stock,Dollars,Thousands,Environmental Accounts,172813,R
+2013,Wood,Generation,Gigawatt hours,Actual,MBIE,541,R
+2013,Wood,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2013,Wood,Opening stock,Dollars,Thousands,Environmental Accounts,155643,R
+2013,Wood,Other changes,Dollars,Thousands,Environmental Accounts,17169,R
+2013,Wood,Resource rent,Dollars,Thousands,Environmental Accounts,13825,R
+2014,Biogas,Closing stock,Dollars,Thousands,Environmental Accounts,69604,R
+2014,Biogas,Generation,Gigawatt hours,Actual,MBIE,205,F
+2014,Biogas,Gigawatt hours,Number,Proportion,MBIE,0,F
+2014,Biogas,Opening stock,Dollars,Thousands,Environmental Accounts,66460,R
+2014,Biogas,Other changes,Dollars,Thousands,Environmental Accounts,3143,R
+2014,Biogas,Resource rent,Dollars,Thousands,Environmental Accounts,5568,R
+2014,Coal,Generation,Gigawatt hours,Actual,MBIE,2012,F
+2014,Gas,Generation,Gigawatt hours,Actual,MBIE,7588,R
+2014,Geothermal,Closing stock,Dollars,Thousands,Environmental Accounts,2256009,R
+2014,Geothermal,Generation,Gigawatt hours,Actual,MBIE,6629,R
+2014,Geothermal,Gigawatt hours,Number,Proportion,MBIE,0.16,R
+2014,Geothermal,Opening stock,Dollars,Thousands,Environmental Accounts,1948646,R
+2014,Geothermal,Other changes,Dollars,Thousands,Environmental Accounts,307362,R
+2014,Geothermal,Resource rent,Dollars,Thousands,Environmental Accounts,180481,R
+2014,Hydro,Closing stock,Dollars,Thousands,Environmental Accounts,7893553,R
+2014,Hydro,Generation,Gigawatt hours,Actual,MBIE,23194,F
+2014,Hydro,Gigawatt hours,Number,Proportion,MBIE,0.55,F
+2014,Hydro,Opening stock,Dollars,Thousands,Environmental Accounts,7260275,R
+2014,Hydro,Other changes,Dollars,Thousands,Environmental Accounts,633278,R
+2014,Hydro,Resource rent,Dollars,Thousands,Environmental Accounts,631484,R
+2014,Oil,Generation,Gigawatt hours,Actual,MBIE,3,F
+2014,Renewable,Closing stock,Dollars,Thousands,Environmental Accounts,11112357,R
+2014,Renewable,Generation,Gigawatt hours,Actual,MBIE,32652,R
+2014,Renewable,Gigawatt hours,Number,Proportion,MBIE,0.77,F
+2014,Renewable,Opening stock,Dollars,Thousands,Environmental Accounts,10088057,R
+2014,Renewable,Other changes,Dollars,Thousands,Environmental Accounts,1024300,R
+2014,Renewable,Resource rent,Dollars,Thousands,Environmental Accounts,888989,R
+2014,Renewable,Resource rent,Number,Proportion,Environmental Accounts,0.77,F
+2014,Solar,Closing stock,Dollars,Thousands,Environmental Accounts,3089,R
+2014,Solar,Generation,Gigawatt hours,Actual,MBIE,9,F
+2014,Solar,Gigawatt hours,Number,Proportion,MBIE,0,F
+2014,Solar,Opening stock,Dollars,Thousands,Environmental Accounts,1596,R
+2014,Solar,Other changes,Dollars,Thousands,Environmental Accounts,1493,R
+2014,Solar,Resource rent,Dollars,Thousands,Environmental Accounts,247,R
+2014,Total generation,Generation,Gigawatt hours,Actual,MBIE,42303,R
+2014,Total generation,Prices,Number,Average,Electricity Authority,69,F
+2014,Total generation,Resource rent,Dollars,Thousands,Environmental Accounts,1151755,F
+2014,Waste heat,Generation,Gigawatt hours,Actual,MBIE,48,F
+2014,Wind,Closing stock,Dollars,Thousands,Environmental Accounts,703076,R
+2014,Wind,Generation,Gigawatt hours,Actual,MBIE,2066,R
+2014,Wind,Gigawatt hours,Number,Proportion,MBIE,0.05,F
+2014,Wind,Opening stock,Dollars,Thousands,Environmental Accounts,638267,R
+2014,Wind,Other changes,Dollars,Thousands,Environmental Accounts,64809,R
+2014,Wind,Resource rent,Dollars,Thousands,Environmental Accounts,56246,R
+2014,Wood,Closing stock,Dollars,Thousands,Environmental Accounts,187028,R
+2014,Wood,Generation,Gigawatt hours,Actual,MBIE,550,R
+2014,Wood,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2014,Wood,Opening stock,Dollars,Thousands,Environmental Accounts,172813,R
+2014,Wood,Other changes,Dollars,Thousands,Environmental Accounts,14215,R
+2014,Wood,Resource rent,Dollars,Thousands,Environmental Accounts,14962,R
+2015,Biogas,Closing stock,Dollars,Thousands,Environmental Accounts,76467,R
+2015,Biogas,Generation,Gigawatt hours,Actual,MBIE,232,F
+2015,Biogas,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2015,Biogas,Opening stock,Dollars,Thousands,Environmental Accounts,69604,R
+2015,Biogas,Other changes,Dollars,Thousands,Environmental Accounts,6864,R
+2015,Biogas,Resource rent,Dollars,Thousands,Environmental Accounts,6117,R
+2015,Coal,Generation,Gigawatt hours,Actual,MBIE,2152,F
+2015,Gas,Generation,Gigawatt hours,Actual,MBIE,6558,R
+2015,Geothermal,Closing stock,Dollars,Thousands,Environmental Accounts,2448087,R
+2015,Geothermal,Generation,Gigawatt hours,Actual,MBIE,7414,R
+2015,Geothermal,Gigawatt hours,Number,Proportion,MBIE,0.17,F
+2015,Geothermal,Opening stock,Dollars,Thousands,Environmental Accounts,2256009,R
+2015,Geothermal,Other changes,Dollars,Thousands,Environmental Accounts,192078,R
+2015,Geothermal,Resource rent,Dollars,Thousands,Environmental Accounts,195847,R
+2015,Hydro,Closing stock,Dollars,Thousands,Environmental Accounts,7835910,R
+2015,Hydro,Generation,Gigawatt hours,Actual,MBIE,23732,F
+2015,Hydro,Gigawatt hours,Number,Proportion,MBIE,0.55,R
+2015,Hydro,Opening stock,Dollars,Thousands,Environmental Accounts,7893553,R
+2015,Hydro,Other changes,Dollars,Thousands,Environmental Accounts,-57643,R
+2015,Hydro,Resource rent,Dollars,Thousands,Environmental Accounts,626873,R
+2015,Oil,Generation,Gigawatt hours,Actual,MBIE,3,F
+2015,Renewable,Closing stock,Dollars,Thousands,Environmental Accounts,11246046,R
+2015,Renewable,Generation,Gigawatt hours,Actual,MBIE,34060,R
+2015,Renewable,Gigawatt hours,Number,Proportion,MBIE,0.8,R
+2015,Renewable,Opening stock,Dollars,Thousands,Environmental Accounts,11112357,R
+2015,Renewable,Other changes,Dollars,Thousands,Environmental Accounts,133689,R
+2015,Renewable,Resource rent,Dollars,Thousands,Environmental Accounts,899684,R
+2015,Renewable,Resource rent,Number,Proportion,Environmental Accounts,0.8,R
+2015,Solar,Closing stock,Dollars,Thousands,Environmental Accounts,7786,R
+2015,Solar,Generation,Gigawatt hours,Actual,MBIE,24,R
+2015,Solar,Gigawatt hours,Number,Proportion,MBIE,0,F
+2015,Solar,Opening stock,Dollars,Thousands,Environmental Accounts,3089,R
+2015,Solar,Other changes,Dollars,Thousands,Environmental Accounts,4697,R
+2015,Solar,Resource rent,Dollars,Thousands,Environmental Accounts,623,R
+2015,Total generation,Generation,Gigawatt hours,Actual,MBIE,42821,R
+2015,Total generation,Prices,Number,Average,Electricity Authority,74,F
+2015,Total generation,Resource rent,Dollars,Thousands,Environmental Accounts,1131088,F
+2015,Waste heat,Generation,Gigawatt hours,Actual,MBIE,47,F
+2015,Wind,Closing stock,Dollars,Thousands,Environmental Accounts,708525,R
+2015,Wind,Generation,Gigawatt hours,Actual,MBIE,2146,F
+2015,Wind,Gigawatt hours,Number,Proportion,MBIE,0.05,F
+2015,Wind,Opening stock,Dollars,Thousands,Environmental Accounts,703076,R
+2015,Wind,Other changes,Dollars,Thousands,Environmental Accounts,5449,R
+2015,Wind,Resource rent,Dollars,Thousands,Environmental Accounts,56682,R
+2015,Wood,Closing stock,Dollars,Thousands,Environmental Accounts,169272,R
+2015,Wood,Generation,Gigawatt hours,Actual,MBIE,513,R
+2015,Wood,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2015,Wood,Opening stock,Dollars,Thousands,Environmental Accounts,187028,R
+2015,Wood,Other changes,Dollars,Thousands,Environmental Accounts,-17756,R
+2015,Wood,Resource rent,Dollars,Thousands,Environmental Accounts,13542,R
+2016,Biogas,Closing stock,Dollars,Thousands,Environmental Accounts,72797,R
+2016,Biogas,Generation,Gigawatt hours,Actual,MBIE,249,R
+2016,Biogas,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2016,Biogas,Opening stock,Dollars,Thousands,Environmental Accounts,76467,R
+2016,Biogas,Other changes,Dollars,Thousands,Environmental Accounts,-3670,R
+2016,Biogas,Resource rent,Dollars,Thousands,Environmental Accounts,5824,R
+2016,Coal,Generation,Gigawatt hours,Actual,MBIE,1389,F
+2016,Gas,Generation,Gigawatt hours,Actual,MBIE,6137,R
+2016,Geothermal,Closing stock,Dollars,Thousands,Environmental Accounts,2284325,R
+2016,Geothermal,Generation,Gigawatt hours,Actual,MBIE,7825,R
+2016,Geothermal,Gigawatt hours,Number,Proportion,MBIE,0.18,F
+2016,Geothermal,Opening stock,Dollars,Thousands,Environmental Accounts,2448087,R
+2016,Geothermal,Other changes,Dollars,Thousands,Environmental Accounts,-163762,R
+2016,Geothermal,Resource rent,Dollars,Thousands,Environmental Accounts,182746,R
+2016,Hydro,Closing stock,Dollars,Thousands,Environmental Accounts,7232382,R
+2016,Hydro,Generation,Gigawatt hours,Actual,MBIE,24775,F
+2016,Hydro,Gigawatt hours,Number,Proportion,MBIE,0.57,F
+2016,Hydro,Opening stock,Dollars,Thousands,Environmental Accounts,7835910,R
+2016,Hydro,Other changes,Dollars,Thousands,Environmental Accounts,-603527,R
+2016,Hydro,Resource rent,Dollars,Thousands,Environmental Accounts,578591,R
+2016,Oil,Generation,Gigawatt hours,Actual,MBIE,1,F
+2016,Renewable,Closing stock,Dollars,Thousands,Environmental Accounts,10455262,R
+2016,Renewable,Generation,Gigawatt hours,Actual,MBIE,35815,R
+2016,Renewable,Gigawatt hours,Number,Proportion,MBIE,0.83,R
+2016,Renewable,Opening stock,Dollars,Thousands,Environmental Accounts,11246046,R
+2016,Renewable,Other changes,Dollars,Thousands,Environmental Accounts,-790784,R
+2016,Renewable,Resource rent,Dollars,Thousands,Environmental Accounts,836421,R
+2016,Renewable,Resource rent,Number,Proportion,Environmental Accounts,0.83,R
+2016,Solar,Closing stock,Dollars,Thousands,Environmental Accounts,11996,R
+2016,Solar,Generation,Gigawatt hours,Actual,MBIE,41,F
+2016,Solar,Gigawatt hours,Number,Proportion,MBIE,0,F
+2016,Solar,Opening stock,Dollars,Thousands,Environmental Accounts,7786,R
+2016,Solar,Other changes,Dollars,Thousands,Environmental Accounts,4211,R
+2016,Solar,Resource rent,Dollars,Thousands,Environmental Accounts,960,R
+2016,Total generation,Generation,Gigawatt hours,Actual,MBIE,43392,R
+2016,Total generation,Prices,Number,Average,Electricity Authority,62,F
+2016,Total generation,Resource rent,Dollars,Thousands,Environmental Accounts,1013362,R
+2016,Waste heat,Generation,Gigawatt hours,Actual,MBIE,50,F
+2016,Wind,Closing stock,Dollars,Thousands,Environmental Accounts,702123,R
+2016,Wind,Generation,Gigawatt hours,Actual,MBIE,2405,F
+2016,Wind,Gigawatt hours,Number,Proportion,MBIE,0.06,F
+2016,Wind,Opening stock,Dollars,Thousands,Environmental Accounts,708525,R
+2016,Wind,Other changes,Dollars,Thousands,Environmental Accounts,-6402,R
+2016,Wind,Resource rent,Dollars,Thousands,Environmental Accounts,56170,R
+2016,Wood,Closing stock,Dollars,Thousands,Environmental Accounts,151639,R
+2016,Wood,Generation,Gigawatt hours,Actual,MBIE,519,R
+2016,Wood,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2016,Wood,Opening stock,Dollars,Thousands,Environmental Accounts,169272,R
+2016,Wood,Other changes,Dollars,Thousands,Environmental Accounts,-17633,R
+2016,Wood,Resource rent,Dollars,Thousands,Environmental Accounts,12131,R
+2017,Biogas,Closing stock,Dollars,Thousands,Environmental Accounts,95843,R
+2017,Biogas,Generation,Gigawatt hours,Actual,MBIE,269,R
+2017,Biogas,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2017,Biogas,Opening stock,Dollars,Thousands,Environmental Accounts,72797,R
+2017,Biogas,Other changes,Dollars,Thousands,Environmental Accounts,23046,R
+2017,Biogas,Resource rent,Dollars,Thousands,Environmental Accounts,5751,R
+2017,Coal,Generation,Gigawatt hours,Actual,MBIE,819,F
+2017,Gas,Generation,Gigawatt hours,Actual,MBIE,5081,R
+2017,Geothermal,Closing stock,Dollars,Thousands,Environmental Accounts,2732371,R
+2017,Geothermal,Generation,Gigawatt hours,Actual,MBIE,7668,R
+2017,Geothermal,Gigawatt hours,Number,Proportion,MBIE,0.18,F
+2017,Geothermal,Opening stock,Dollars,Thousands,Environmental Accounts,2284325,R
+2017,Geothermal,Other changes,Dollars,Thousands,Environmental Accounts,448046,R
+2017,Geothermal,Resource rent,Dollars,Thousands,Environmental Accounts,163942,R
+2017,Hydro,Closing stock,Dollars,Thousands,Environmental Accounts,9280335,R
+2017,Hydro,Generation,Gigawatt hours,Actual,MBIE,26043,R
+2017,Hydro,Gigawatt hours,Number,Proportion,MBIE,0.61,F
+2017,Hydro,Opening stock,Dollars,Thousands,Environmental Accounts,7232382,R
+2017,Hydro,Other changes,Dollars,Thousands,Environmental Accounts,2047953,R
+2017,Hydro,Resource rent,Dollars,Thousands,Environmental Accounts,556820,R
+2017,Oil,Generation,Gigawatt hours,Actual,MBIE,3,F
+2017,Renewable,Closing stock,Dollars,Thousands,Environmental Accounts,13156070,R
+2017,Renewable,Generation,Gigawatt hours,Actual,MBIE,36919,R
+2017,Renewable,Gigawatt hours,Number,Proportion,MBIE,0.86,F
+2017,Renewable,Opening stock,Dollars,Thousands,Environmental Accounts,10455262,R
+2017,Renewable,Other changes,Dollars,Thousands,Environmental Accounts,2700808,R
+2017,Renewable,Resource rent,Dollars,Thousands,Environmental Accounts,789364,R
+2017,Renewable,Resource rent,Number,Proportion,Environmental Accounts,0.86,F
+2017,Solar,Closing stock,Dollars,Thousands,Environmental Accounts,21527,R
+2017,Solar,Generation,Gigawatt hours,Actual,MBIE,60,R
+2017,Solar,Gigawatt hours,Number,Proportion,MBIE,0,F
+2017,Solar,Opening stock,Dollars,Thousands,Environmental Accounts,11996,R
+2017,Solar,Other changes,Dollars,Thousands,Environmental Accounts,9530,R
+2017,Solar,Resource rent,Dollars,Thousands,Environmental Accounts,1292,R
+2017,Total generation,Generation,Gigawatt hours,Actual,MBIE,42874,R
+2017,Total generation,Prices,Number,Average,Electricity Authority,52,F
+2017,Total generation,Resource rent,Dollars,Thousands,Environmental Accounts,916695,R
+2017,Waste heat,Generation,Gigawatt hours,Actual,MBIE,51,F
+2017,Wind,Closing stock,Dollars,Thousands,Environmental Accounts,850709,R
+2017,Wind,Generation,Gigawatt hours,Actual,MBIE,2387,R
+2017,Wind,Gigawatt hours,Number,Proportion,MBIE,0.06,F
+2017,Wind,Opening stock,Dollars,Thousands,Environmental Accounts,702123,R
+2017,Wind,Other changes,Dollars,Thousands,Environmental Accounts,148586,R
+2017,Wind,Resource rent,Dollars,Thousands,Environmental Accounts,51043,R
+2017,Wood,Closing stock,Dollars,Thousands,Environmental Accounts,175286,R
+2017,Wood,Generation,Gigawatt hours,Actual,MBIE,492,R
+2017,Wood,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2017,Wood,Opening stock,Dollars,Thousands,Environmental Accounts,151639,R
+2017,Wood,Other changes,Dollars,Thousands,Environmental Accounts,23647,R
+2017,Wood,Resource rent,Dollars,Thousands,Environmental Accounts,10517,R
+2018,Biogas,Closing stock,Dollars,Thousands,Environmental Accounts,75629,R
+2018,Biogas,Generation,Gigawatt hours,Actual,MBIE,263,R
+2018,Biogas,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2018,Biogas,Opening stock,Dollars,Thousands,Environmental Accounts,95843,R
+2018,Biogas,Other changes,Dollars,Thousands,Environmental Accounts,-20213,R
+2018,Biogas,Resource rent,Dollars,Thousands,Environmental Accounts,4538,R
+2018,Coal,Generation,Gigawatt hours,Actual,MBIE,1273,F
+2018,Gas,Generation,Gigawatt hours,Actual,MBIE,6876,R
+2018,Geothermal,Closing stock,Dollars,Thousands,Environmental Accounts,2203472,R
+2018,Geothermal,Generation,Gigawatt hours,Actual,MBIE,7669,R
+2018,Geothermal,Gigawatt hours,Number,Proportion,MBIE,0.18,R
+2018,Geothermal,Opening stock,Dollars,Thousands,Environmental Accounts,2732371,R
+2018,Geothermal,Other changes,Dollars,Thousands,Environmental Accounts,-528899,R
+2018,Geothermal,Resource rent,Dollars,Thousands,Environmental Accounts,132208,R
+2018,Hydro,Closing stock,Dollars,Thousands,Environmental Accounts,7047289,R
+2018,Hydro,Generation,Gigawatt hours,Actual,MBIE,24528,R
+2018,Hydro,Gigawatt hours,Number,Proportion,MBIE,0.57,F
+2018,Hydro,Opening stock,Dollars,Thousands,Environmental Accounts,9280335,R
+2018,Hydro,Other changes,Dollars,Thousands,Environmental Accounts,-2233046,R
+2018,Hydro,Resource rent,Dollars,Thousands,Environmental Accounts,422837,R
+2018,Oil,Generation,Gigawatt hours,Actual,MBIE,6,F
+2018,Renewable,Closing stock,Dollars,Thousands,Environmental Accounts,10043353,R
+2018,Renewable,Generation,Gigawatt hours,Actual,MBIE,34956,R
+2018,Renewable,Gigawatt hours,Number,Proportion,MBIE,0.81,F
+2018,Renewable,Opening stock,Dollars,Thousands,Environmental Accounts,13156070,R
+2018,Renewable,Other changes,Dollars,Thousands,Environmental Accounts,-3112717,R
+2018,Renewable,Resource rent,Dollars,Thousands,Environmental Accounts,602601,R
+2018,Renewable,Resource rent,Number,Proportion,Environmental Accounts,0.81,F
+2018,Solar,Closing stock,Dollars,Thousands,Environmental Accounts,23701,R
+2018,Solar,Generation,Gigawatt hours,Actual,MBIE,82,R
+2018,Solar,Gigawatt hours,Number,Proportion,MBIE,0,F
+2018,Solar,Opening stock,Dollars,Thousands,Environmental Accounts,21527,R
+2018,Solar,Other changes,Dollars,Thousands,Environmental Accounts,2174,R
+2018,Solar,Resource rent,Dollars,Thousands,Environmental Accounts,1422,R
+2018,Total generation,Generation,Gigawatt hours,Actual,MBIE,43156,R
+2018,Total generation,Prices,Number,Average,Electricity Authority,86,F
+2018,Total generation,Resource rent,Dollars,Thousands,Environmental Accounts,743960,R
+2018,Waste heat,Generation,Gigawatt hours,Actual,MBIE,45,F
+2018,Wind,Closing stock,Dollars,Thousands,Environmental Accounts,554748,R
+2018,Wind,Generation,Gigawatt hours,Actual,MBIE,1931,F
+2018,Wind,Gigawatt hours,Number,Proportion,MBIE,0.04,R
+2018,Wind,Opening stock,Dollars,Thousands,Environmental Accounts,850709,R
+2018,Wind,Other changes,Dollars,Thousands,Environmental Accounts,-295960,R
+2018,Wind,Resource rent,Dollars,Thousands,Environmental Accounts,33285,R
+2018,Wood,Closing stock,Dollars,Thousands,Environmental Accounts,138514,R
+2018,Wood,Generation,Gigawatt hours,Actual,MBIE,482,R
+2018,Wood,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2018,Wood,Opening stock,Dollars,Thousands,Environmental Accounts,175286,R
+2018,Wood,Other changes,Dollars,Thousands,Environmental Accounts,-36772,R
+2018,Wood,Resource rent,Dollars,Thousands,Environmental Accounts,8311,R
+2019,Biogas,Closing stock,Dollars,Thousands,Environmental Accounts,96663,R
+2019,Biogas,Generation,Gigawatt hours,Actual,MBIE,261,R
+2019,Biogas,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2019,Biogas,Opening stock,Dollars,Thousands,Environmental Accounts,75629,R
+2019,Biogas,Other changes,Dollars,Thousands,Environmental Accounts,21034,R
+2019,Biogas,Resource rent,Dollars,Thousands,Environmental Accounts,5800,R
+2019,Coal,Generation,Gigawatt hours,Actual,MBIE,1871,F
+2019,Gas,Generation,Gigawatt hours,Actual,MBIE,5053,R
+2019,Geothermal,Closing stock,Dollars,Thousands,Environmental Accounts,2892757,R
+2019,Geothermal,Generation,Gigawatt hours,Actual,MBIE,7815,R
+2019,Geothermal,Gigawatt hours,Number,Proportion,MBIE,0.18,F
+2019,Geothermal,Opening stock,Dollars,Thousands,Environmental Accounts,2203472,R
+2019,Geothermal,Other changes,Dollars,Thousands,Environmental Accounts,689285,R
+2019,Geothermal,Resource rent,Dollars,Thousands,Environmental Accounts,173565,R
+2019,Hydro,Closing stock,Dollars,Thousands,Environmental Accounts,9608139,R
+2019,Hydro,Generation,Gigawatt hours,Actual,MBIE,25958,R
+2019,Hydro,Gigawatt hours,Number,Proportion,MBIE,0.59,R
+2019,Hydro,Opening stock,Dollars,Thousands,Environmental Accounts,7047289,R
+2019,Hydro,Other changes,Dollars,Thousands,Environmental Accounts,2560850,R
+2019,Hydro,Resource rent,Dollars,Thousands,Environmental Accounts,576488,R
+2019,Oil,Generation,Gigawatt hours,Actual,MBIE,12,F
+2019,Renewable,Closing stock,Dollars,Thousands,Environmental Accounts,13580242,R
+2019,Renewable,Generation,Gigawatt hours,Actual,MBIE,36690,R
+2019,Renewable,Gigawatt hours,Number,Proportion,MBIE,0.84,F
+2019,Renewable,Opening stock,Dollars,Thousands,Environmental Accounts,10043353,R
+2019,Renewable,Other changes,Dollars,Thousands,Environmental Accounts,3536889,R
+2019,Renewable,Resource rent,Dollars,Thousands,Environmental Accounts,814815,R
+2019,Renewable,Resource rent,Number,Proportion,Environmental Accounts,0.84,F
+2019,Solar,Closing stock,Dollars,Thousands,Environmental Accounts,40639,R
+2019,Solar,Generation,Gigawatt hours,Actual,MBIE,110,F
+2019,Solar,Gigawatt hours,Number,Proportion,MBIE,0,F
+2019,Solar,Opening stock,Dollars,Thousands,Environmental Accounts,23701,R
+2019,Solar,Other changes,Dollars,Thousands,Environmental Accounts,16938,R
+2019,Solar,Resource rent,Dollars,Thousands,Environmental Accounts,2438,R
+2019,Total generation,Generation,Gigawatt hours,Actual,MBIE,43676,R
+2019,Total generation,Prices,Number,Average,Electricity Authority,125,R
+2019,Total generation,Resource rent,Dollars,Thousands,Environmental Accounts,969974,R
+2019,Waste heat,Generation,Gigawatt hours,Actual,MBIE,51,F
+2019,Wind,Closing stock,Dollars,Thousands,Environmental Accounts,770709,R
+2019,Wind,Generation,Gigawatt hours,Actual,MBIE,2082,F
+2019,Wind,Gigawatt hours,Number,Proportion,MBIE,0.05,F
+2019,Wind,Opening stock,Dollars,Thousands,Environmental Accounts,554748,R
+2019,Wind,Other changes,Dollars,Thousands,Environmental Accounts,215961,R
+2019,Wind,Resource rent,Dollars,Thousands,Environmental Accounts,46243,R
+2019,Wood,Closing stock,Dollars,Thousands,Environmental Accounts,171335,R
+2019,Wood,Generation,Gigawatt hours,Actual,MBIE,463,R
+2019,Wood,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2019,Wood,Opening stock,Dollars,Thousands,Environmental Accounts,138514,R
+2019,Wood,Other changes,Dollars,Thousands,Environmental Accounts,32821,R
+2019,Wood,Resource rent,Dollars,Thousands,Environmental Accounts,10280,R
+2020,Biogas,Closing stock,Dollars,Thousands,Environmental Accounts,132225,R
+2020,Biogas,Generation,Gigawatt hours,Actual,MBIE,266,R
+2020,Biogas,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2020,Biogas,Opening stock,Dollars,Thousands,Environmental Accounts,96663,R
+2020,Biogas,Other changes,Dollars,Thousands,Environmental Accounts,35562,R
+2020,Biogas,Resource rent,Dollars,Thousands,Environmental Accounts,7933,R
+2020,Coal,Generation,Gigawatt hours,Actual,MBIE,1965,F
+2020,Gas,Generation,Gigawatt hours,Actual,MBIE,5400,R
+2020,Geothermal,Closing stock,Dollars,Thousands,Environmental Accounts,3906790,R
+2020,Geothermal,Generation,Gigawatt hours,Actual,MBIE,7869,R
+2020,Geothermal,Gigawatt hours,Number,Proportion,MBIE,0.18,F
+2020,Geothermal,Opening stock,Dollars,Thousands,Environmental Accounts,2892757,R
+2020,Geothermal,Other changes,Dollars,Thousands,Environmental Accounts,1014033,R
+2020,Geothermal,Resource rent,Dollars,Thousands,Environmental Accounts,234407,R
+2020,Hydro,Closing stock,Dollars,Thousands,Environmental Accounts,12648085,R
+2020,Hydro,Generation,Gigawatt hours,Actual,MBIE,25477,R
+2020,Hydro,Gigawatt hours,Number,Proportion,MBIE,0.58,F
+2020,Hydro,Opening stock,Dollars,Thousands,Environmental Accounts,9608139,R
+2020,Hydro,Other changes,Dollars,Thousands,Environmental Accounts,3039945,R
+2020,Hydro,Resource rent,Dollars,Thousands,Environmental Accounts,758885,R
+2020,Oil,Generation,Gigawatt hours,Actual,MBIE,3,F
+2020,Renewable,Closing stock,Dollars,Thousands,Environmental Accounts,18114194,R
+2020,Renewable,Generation,Gigawatt hours,Actual,MBIE,36487,R
+2020,Renewable,Gigawatt hours,Number,Proportion,MBIE,0.83,F
+2020,Renewable,Opening stock,Dollars,Thousands,Environmental Accounts,13580242,R
+2020,Renewable,Other changes,Dollars,Thousands,Environmental Accounts,4533952,R
+2020,Renewable,Resource rent,Dollars,Thousands,Environmental Accounts,1086852,R
+2020,Renewable,Resource rent,Number,Proportion,Environmental Accounts,0.83,F
+2020,Solar,Closing stock,Dollars,Thousands,Environmental Accounts,66933,R
+2020,Solar,Generation,Gigawatt hours,Actual,MBIE,135,R
+2020,Solar,Gigawatt hours,Number,Proportion,MBIE,0,F
+2020,Solar,Opening stock,Dollars,Thousands,Environmental Accounts,40639,R
+2020,Solar,Other changes,Dollars,Thousands,Environmental Accounts,26294,R
+2020,Solar,Resource rent,Dollars,Thousands,Environmental Accounts,4016,R
+2020,Total generation,Generation,Gigawatt hours,Actual,MBIE,43899,R
+2020,Total generation,Prices,Number,Average,Electricity Authority,96,R
+2020,Total generation,Resource rent,Dollars,Thousands,Environmental Accounts,1307624,R
+2020,Waste heat,Generation,Gigawatt hours,Actual,MBIE,44,F
+2020,Wind,Closing stock,Dollars,Thousands,Environmental Accounts,1128523,R
+2020,Wind,Generation,Gigawatt hours,Actual,MBIE,2273,R
+2020,Wind,Gigawatt hours,Number,Proportion,MBIE,0.05,F
+2020,Wind,Opening stock,Dollars,Thousands,Environmental Accounts,770709,R
+2020,Wind,Other changes,Dollars,Thousands,Environmental Accounts,357814,R
+2020,Wind,Resource rent,Dollars,Thousands,Environmental Accounts,67711,R
+2020,Wood,Closing stock,Dollars,Thousands,Environmental Accounts,231639,R
+2020,Wood,Generation,Gigawatt hours,Actual,MBIE,467,R
+2020,Wood,Gigawatt hours,Number,Proportion,MBIE,0.01,F
+2020,Wood,Opening stock,Dollars,Thousands,Environmental Accounts,171335,R
+2020,Wood,Other changes,Dollars,Thousands,Environmental Accounts,60304,R
+2020,Wood,Resource rent,Dollars,Thousands,Environmental Accounts,13898,R
+2021,Biogas,Closing stock,Dollars,Thousands,Environmental Accounts,97229,P
+2021,Biogas,Generation,Gigawatt hours,Actual,MBIE,274,P
+2021,Biogas,Gigawatt hours,Number,Proportion,MBIE,0.01,P
+2021,Biogas,Opening stock,Dollars,Thousands,Environmental Accounts,132225,P
+2021,Biogas,Other changes,Dollars,Thousands,Environmental Accounts,-34995,P
+2021,Biogas,Resource rent,Dollars,Thousands,Environmental Accounts,4861,P
+2021,Coal,Generation,Gigawatt hours,Actual,MBIE,2663,P
+2021,Gas,Generation,Gigawatt hours,Actual,MBIE,5702,P
+2021,Geothermal,Closing stock,Dollars,Thousands,Environmental Accounts,2795450,P
+2021,Geothermal,Generation,Gigawatt hours,Actual,MBIE,7877,P
+2021,Geothermal,Gigawatt hours,Number,Proportion,MBIE,0.18,P
+2021,Geothermal,Opening stock,Dollars,Thousands,Environmental Accounts,3906790,P
+2021,Geothermal,Other changes,Dollars,Thousands,Environmental Accounts,-1111340,P
+2021,Geothermal,Resource rent,Dollars,Thousands,Environmental Accounts,139773,P
+2021,Hydro,Closing stock,Dollars,Thousands,Environmental Accounts,8329598,P
+2021,Hydro,Generation,Gigawatt hours,Actual,MBIE,23472,P
+2021,Hydro,Gigawatt hours,Number,Proportion,MBIE,0.55,P
+2021,Hydro,Opening stock,Dollars,Thousands,Environmental Accounts,12648085,P
+2021,Hydro,Other changes,Dollars,Thousands,Environmental Accounts,-4318487,P
+2021,Hydro,Resource rent,Dollars,Thousands,Environmental Accounts,416480,P
+2021,Oil,Generation,Gigawatt hours,Actual,MBIE,19,P
+2021,Renewable,Closing stock,Dollars,Thousands,Environmental Accounts,12252538,P
+2021,Renewable,Generation,Gigawatt hours,Actual,MBIE,34526,P
+2021,Renewable,Gigawatt hours,Number,Proportion,MBIE,0.8,P
+2021,Renewable,Opening stock,Dollars,Thousands,Environmental Accounts,18114194,P
+2021,Renewable,Other changes,Dollars,Thousands,Environmental Accounts,-5861656,P
+2021,Renewable,Resource rent,Dollars,Thousands,Environmental Accounts,612627,P
+2021,Renewable,Resource rent,Number,Proportion,Environmental Accounts,0.8,P
+2021,Solar,Closing stock,Dollars,Thousands,Environmental Accounts,60881,P
+2021,Solar,Generation,Gigawatt hours,Actual,MBIE,172,P
+2021,Solar,Gigawatt hours,Number,Proportion,MBIE,0,P
+2021,Solar,Opening stock,Dollars,Thousands,Environmental Accounts,66933,P
+2021,Solar,Other changes,Dollars,Thousands,Environmental Accounts,-6052,P
+2021,Solar,Resource rent,Dollars,Thousands,Environmental Accounts,3044,P
+2021,Total generation,Generation,Gigawatt hours,Actual,MBIE,42948,P
+2021,Total generation,Prices,Number,Average,Electricity Authority,139,P
+2021,Total generation,Resource rent,Dollars,Thousands,Environmental Accounts,762066,P
+2021,Waste heat,Generation,Gigawatt hours,Actual,MBIE,38,P
+2021,Wind,Closing stock,Dollars,Thousands,Environmental Accounts,804951,P
+2021,Wind,Generation,Gigawatt hours,Actual,MBIE,2268,P
+2021,Wind,Gigawatt hours,Number,Proportion,MBIE,0.05,P
+2021,Wind,Opening stock,Dollars,Thousands,Environmental Accounts,1128523,P
+2021,Wind,Other changes,Dollars,Thousands,Environmental Accounts,-323572,P
+2021,Wind,Resource rent,Dollars,Thousands,Environmental Accounts,40248,P
+2021,Wood,Closing stock,Dollars,Thousands,Environmental Accounts,164428,P
+2021,Wood,Generation,Gigawatt hours,Actual,MBIE,463,P
+2021,Wood,Gigawatt hours,Number,Proportion,MBIE,0.01,P
+2021,Wood,Opening stock,Dollars,Thousands,Environmental Accounts,231639,P
+2021,Wood,Other changes,Dollars,Thousands,Environmental Accounts,-67210,P
+2021,Wood,Resource rent,Dollars,Thousands,Environmental Accounts,8221,P

@@ -1,0 +1,38 @@
+<!-- Home_page is designed using Bootstrap-->
+
+    <h2 class="text-center">Files List</h2>
+
+   
+    <div class="table-responsive w-50 text-center mx-auto rounded">
+      <table class="table table-dark table-bordered border-primary table-hover">
+          <thead>
+              <tr>
+                <th scope="col">File Name</th>
+                <th scope="col">Views</th>
+              </tr>
+            </thead>
+            <tbody class="table-light table-bordered border-primary">
+              <% for(data of files){ %>
+                <tr>
+                  <td> <%=data.file%></td>
+                  <td>
+                    <a href="/csv/<%= data._id %>" class="text-decoration-none">Click here to view</a>
+                  </td>
+                </tr>
+             <%}%>
+            </tbody>
+      </table>
+    </div>
+
+
+  <div class="container mb-5" >
+      <div class="text-center">
+              <form action="/upload" method="post" enctype="multipart/form-data">
+                  <div class="form-group mt-5">
+                      <label for="csvFile">Choose the CSV file to upload:</label>
+                      <input type="file" class="form-control-file" id="csv_file" name="csv_file" accept=".csv">
+                  </div>
+                  <button type="submit" class="btn btn-primary text-center mt-2">Upload file</button>
+              </form>
+      </div>
+  </div>
